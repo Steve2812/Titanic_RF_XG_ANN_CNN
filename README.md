@@ -39,7 +39,7 @@ These features were crafted to capture social travel behavior and group survival
 	•	Achieved ~82.68% accuracy.
 	•	CNN:
 	•	Exploratory CNN adaptation on tabular data reshaped into 2D.
-	•	Accuracy ~72.07% (shown for experimentation, not optimization).
+	•	Accuracy 79.33% (shown for experimentation, not optimization).
 
  Evaluation Metrics
 	•	Accuracy
